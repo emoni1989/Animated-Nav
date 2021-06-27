@@ -38,12 +38,6 @@
       width: 450px;
   }
 
-  @media screen and (min-width: 480px) {
-    nav.active ul {
-    
-    }
-  }
-
   nav ul {
       display: flex;
       list-style-type: none;
